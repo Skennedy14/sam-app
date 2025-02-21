@@ -1,0 +1,7 @@
+Every 1.0s: curl -s https://ekwjjyoo5h.execute-api.us-east-1.amazonaws.com/Prod/hello/ | jq '.message' 2>&1 | tee -a … Spencers-MacBook-Pro-6.local: 10:41:51
+                                                                                                                                                in 0.384s (0)
+"hello my friend"                                                                                                                                            
+                                                                                                                                                             
+                                                                                                                                                             
+                                                                                                                                                             
+                                                                                                                                                             
